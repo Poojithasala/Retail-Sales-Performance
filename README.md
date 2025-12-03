@@ -1,20 +1,22 @@
 # 📊 Retail Sales Performance Analysis  
 **Using Excel, SQL & Power BI**
 
+---
+
 ## 🔹 Project Overview
 This project focuses on analyzing retail sales data to understand overall business performance, customer behavior, and product trends. The complete analysis is done using:
 - Excel for data cleaning & preprocessing  
 - SQL for data extraction & querying  
 - Power BI for interactive dashboard visualization  
 
-The goal of this project is to convert raw retail data into meaningful business insights.
+The goal of this project is to transform raw retail data into meaningful business insights for better decision-making.
 
 ---
 
 ## 🔹 Tools & Technologies Used
 - **Microsoft Excel** – Data Cleaning & Preparation  
 - **SQL Server** – Data Analysis using Queries  
-- **Power BI** – Data Visualization & Dashboard Creation  
+- **Power BI Desktop** – Data Visualization & Dashboard Creation  
 - **GitHub** – Project Hosting & Version Control  
 
 ---
@@ -28,21 +30,27 @@ The dataset contains information about:
 ---
 
 ## 🔹 Project Workflow
-1. **Data Cleaning in Excel**
-   - Removed duplicates  
-   - Handled missing values  
-   - Formatted dates & currency  
-   - Created calculated columns  
 
-2. **SQL Data Analysis**
-   - Created tables & relationships  
-   - Used SELECT, JOIN, GROUP BY, ORDER BY  
-   - Generated business insights using queries  
+### 1️⃣ Data Cleaning in Excel
+- Removed duplicates  
+- Handled missing values  
+- Date & currency formatting  
+- Created calculated columns  
 
-3. **Power BI Dashboard**
-   - Connected SQL data  
-   - Created interactive reports  
-   - Visualized KPIs and trends  
+### 2️⃣ Data Analysis using SQL
+- Created tables  
+- Applied relationships using keys  
+- Used:
+  - SELECT  
+  - JOIN  
+  - GROUP BY  
+  - ORDER BY  
+- Generated analytical insights
+
+### 3️⃣ Dashboard Creation in Power BI
+- Connected data from SQL
+- Built interactive visualizations
+- Designed KPIs and performance metrics
 
 ---
 
@@ -50,35 +58,41 @@ The dataset contains information about:
 - Monthly & yearly sales trends  
 - Top 10 selling products  
 - High-value customers  
-- Sales by product category  
-- City-wise sales performance  
+- Category-wise sales performance  
+- City-wise revenue analysis  
 
 ---
 
-## 🔹 Dashboard Features (Power BI)
+## 🔹 Power BI Dashboard Features
 - Total Sales & Total Orders
 - Top Products by Revenue
 - Customer Segmentation
-- Category-wise Sales
-- Time-based Sales Analysis
+- Sales Trends by Time
+- Category & City-wise Analysis
 
 ---
 
-## 🔹 Project Files
-- 📁 **Excel File** – Retail_Sales_Performance_Excel.xlsx -- [Excel File](https://github.com/Poojithasala/Retail-Sales-Performance/blob/main/Retail_Sales_Performance_Excel.xlsx)
-- 📁 **SQL Folder** – Contains SQL queries used in analysis  
-- 📁 **Power BI Folder** – Power BI Dashboard (.pbix) file  
+## 🔹 Project Files (Click to Open / Download)
+
+- 📁 **Excel – Open in Browser (Office Viewer)**  
+  [Open Excel Preview](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FPoojithasala%2FRetail-Sales-Performance%2Fmain%2FRetail_Sales_Performance_Excel.xlsx)
+
+- 📁 **SQL Queries Folder**  
+  https://github.com/Poojithasala/Retail-Sales-Performance/tree/main/sql
+
+- 📊 **Power BI Dashboard (.pbix – Download & Open in Desktop)**  
+  https://github.com/Poojithasala/Retail-Sales-Performance/blob/main/power_bi/Retail%20Sales%20Performance%20Dashboard.pbix
 
 ---
 
 ## 🔹 Conclusion
-This project demonstrates my practical skills in:
-- Data Cleaning
-- SQL Query Writing
-- Data Visualization
-- Business Data Analysis
+This project demonstrates my hands-on skills in:
+- Data Cleaning using Excel
+- Writing SQL Queries for analysis
+- Creating interactive dashboards in Power BI
+- Converting raw data into meaningful business insights
 
-It reflects my ability to convert raw data into meaningful dashboards for decision making.
+This project reflects my readiness to work as an entry-level Data Analyst.
 
 ---
 

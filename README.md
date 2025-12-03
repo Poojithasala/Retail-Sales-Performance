@@ -66,6 +66,7 @@ The dataset contains information about:
 
 ## 🔹 Project Files
 - 📁 **Excel File** – Retail_Sales_Performance_Excel.xlsx - 
+ 
 - 📁 **SQL Folder** – Contains SQL queries used in analysis  
 - 📁 **Power BI Folder** – Power BI Dashboard (.pbix) file  
 
